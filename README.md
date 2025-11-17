@@ -4,12 +4,6 @@
 
 ### *Enterprise-Grade LLM Dataset Deduplication*
 
-<picture>
-  <img alt="Byzantine Purple" src="https://img.shields.io/badge/Byzantine-Royal_Purple-4A148C?style=for-the-badge">
-</picture>
-<picture>
-  <img alt="Kindly Gold" src="https://img.shields.io/badge/Kindly-Gold-FFD700?style=for-the-badge">
-</picture>
 
 [![Rust](https://img.shields.io/badge/rust-1.79+-4A148C?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
 [![License](https://img.shields.io/badge/license-Proprietary-FFD700?style=for-the-badge)](LICENSE)
@@ -242,14 +236,6 @@ Enterprise-grade security features:
 - x86_64 with AVX2 support
 
 ### Installation
-
-**Pre-built Binaries** (fastest):
-```bash
-# Download from https://dedup.kindly.software
-wget https://dedup.kindly.software/releases/latest/kindly-dedup-linux-x86_64.tar.gz
-tar -xzf kindly-dedup-linux-x86_64.tar.gz
-./kindly-dedup --help
-```
 
 **Source Access** (requires license):
 ```bash
